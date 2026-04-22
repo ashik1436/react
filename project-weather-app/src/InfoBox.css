@@ -1,0 +1,19 @@
+.InfoBox {
+  margin-top: 30px;
+}
+
+.cardcontainer {
+  display: flex;
+  justify-content: center;
+}
+
+.MuiCard-root {
+  width: 420px !important;
+  border-radius: 20px !important;
+  overflow: hidden !important;
+
+  background: rgba(0, 0, 0, 0.7) !important;
+  color: white !important;
+
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5) !important;
+}
